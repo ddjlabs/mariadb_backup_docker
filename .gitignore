@@ -1,0 +1,6 @@
+# ---> GNOMEShellExtension
+# Ignored files for GNOME extension git repository
+
+*.zip
+documentation/working-notes.md
+05-testing/*.txt
