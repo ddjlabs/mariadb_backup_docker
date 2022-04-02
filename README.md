@@ -1,5 +1,7 @@
 # mariadb_backup_docker
 
+[![Build Docker Image (develop)](https://github.com/ddjlabs/mariadb_backup_docker/actions/workflows/build-docker-image.yaml/badge.svg)](https://github.com/ddjlabs/mariadb_backup_docker/actions/workflows/build-docker-image.yaml)
+
 This solution is a side-card container that will perform a MySQLDump of each database assigned based on a schedule provided. The solution will send out email alerts if there are problems with the backups.
 
 
