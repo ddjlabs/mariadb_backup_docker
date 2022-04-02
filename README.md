@@ -14,6 +14,7 @@ This solution is a side-card container that will perform a MySQLDump of each dat
 
 
 # Change Log
+* 04-02-2022 10:20AM : Converting project to use GitHub Actions with Docker Container builds and package deploys.
 * 08-25-2021 2:30PM : Coded the backup removal function. Also enabled the single database backup option via environment variables.
 
 * 08-25-2021 11:45AM : Figured out the Alpine build issues on the Raspberry Pi. It deals with a internal bug on Alpine 3.13 forward with the libfetch library pulling files from SSL (HTTPS/TLS) connection. I updated the Dockerfile to 3.12 and tested it successfully on my Windows workstation and on the Raspberry Pi using armhf architecture.
