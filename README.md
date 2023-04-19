@@ -1,4 +1,4 @@
-# mariadb_backup_docker
+# mariadb backup docker
 
 [![Build Docker Image (develop)](https://github.com/ddjlabs/mariadb_backup_docker/actions/workflows/build-docker-image.yaml/badge.svg)](https://github.com/ddjlabs/mariadb_backup_docker/actions/workflows/build-docker-image.yaml)
 
